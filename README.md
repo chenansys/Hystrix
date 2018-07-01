@@ -9,6 +9,8 @@
 
 Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 
+这是 半山烟雨客 的Hystrix注释版；
+
 ## Full Documentation
 
 See the [Wiki](https://github.com/Netflix/Hystrix/wiki/) for full documentation, examples, operational details and other information.
